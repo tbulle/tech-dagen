@@ -1,4 +1,4 @@
-# Project Title
+# Git xcercise
 
 Simple overview of use/purpose.
 
