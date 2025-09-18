@@ -1,4 +1,4 @@
-# Git xcercise
+# Git Prod xcercise
 
 Simple overview of use/purpose.
 
